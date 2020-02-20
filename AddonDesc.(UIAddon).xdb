@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIAddon>
+  <AutoStart>true</AutoStart>
+  <Name>AdvancedRemortList</Name>
+  <ScriptFileRefs>
+    <Item href="mainscript.lua"/>
+  </ScriptFileRefs>
+<localizedNameFileRef href="name"/><localizedDescFileRef href="desc"/></UIAddon>
